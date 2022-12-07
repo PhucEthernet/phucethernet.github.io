@@ -107,7 +107,7 @@ body::-webkit-scrollbar-thumb {
 h1, h2, h3, h4, h5, h6{
 	font-weight:600;
 	line-height: 1.2;
-	font-family: "Poppins";
+	font-family: "Roboto";
 	color: #222;
 }
 
@@ -1684,7 +1684,7 @@ body.dark .loader_line:after{
 	bottom: -5px;
 	transition: all 2s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* IE 10+ */
 	color: #ff451b;
-	font-family: "Poppins";
+	font-family: "Roboto";
 }
 .progress_inner .background{
 	background:#e2e7ec;
